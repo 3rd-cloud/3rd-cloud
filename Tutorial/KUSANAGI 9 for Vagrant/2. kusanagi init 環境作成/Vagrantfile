@@ -1,0 +1,35 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  # KUSANAGI 9 Box
+  config.vm.box = "primestrategy/kusanagi9"
+
+  # Vagrant Plugin インストール
+  system "vagrant plugin install vagrant-vbguest" unless Vagrant.has_plugin? 'vagrant-vbguest'
+  system "vagrant plugin install vagrant-reload" unless Vagrant.has_plugin? 'vagrant-reload'
+
+  # VirtualBox Guest Additions 自動更新しない
+  config.vbguest.auto_update = false
+
+  # Network
+  config.vm.network "private_network", ip: "192.168.33.10"
+
+  config.vm.provider "virtualbox" do |vb|
+
+    # 仮想マシン割当CPUコア数: 1
+    vb.cpus = 1
+
+    # 仮想マシン割当メモリー: 1GB
+    vb.memory = 1024
+
+  end
+
+  # 初回起動時に実行されるスクリプト
+  config.vm.provision "shell", :path => "provisions/1_dnf_update.sh"
+  config.vm.provision :reload
+  config.vm.provision "shell", :path => "provisions/2_kusanagi_init.sh"
+  config.vm.provision :reload
+
+end
