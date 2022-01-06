@@ -61,16 +61,16 @@
 
 + Microsoft Azure Administrator Associate (AZ-104)
 + Microsoft Azure Fundamentals (AZ-900)
-+ Microsoft Office Specialist 2013 Office Master
-+ Microsoft Office Specialist Word 2013 Expert
-+ Microsoft Office Specialist Excel 2013 Expert
-+ Microsoft Office Specialist PowerPoint 2013
-+ Microsoft Office Specialist Access 2013
++ [Microsoft Office Specialist 2013 Office Master](https://www.credly.com/badges/1bb7aaa0-e8dc-42da-9a26-17e678f41f48)
++ [Microsoft Office Specialist Word 2013 Expert](https://www.credly.com/badges/8109214f-0612-4228-93e6-2f5d45383eb7)
++ [Microsoft Office Specialist Excel 2013 Expert](https://www.credly.com/badges/a2d817ae-3675-49ae-acba-536d1dc01d7c)
++ [Microsoft Office Specialist PowerPoint 2013](https://www.credly.com/badges/2f8c889d-1376-4f39-b695-274995c3b819)
++ [Microsoft Office Specialist Access 2013](https://www.credly.com/badges/368b4cbc-763e-4b55-ad40-53205f8d20cf)
 
 ### Oracle
 
-+ Java Programmer, Gold SE 8
-+ Java Programmer, Silver SE 8
++ [Java Programmer, Gold SE 8](https://www.credly.com/badges/3ec3be5e-a8ec-4ddf-bb5d-a638312b271d)
++ [Java Programmer, Silver SE 8](https://www.credly.com/badges/aff95285-114f-4a1c-b71f-6c89695cfe50)
 
 ### FUJITSU
 
@@ -141,10 +141,10 @@
 
 ### Certiport
 
-+ IC3 グローバルスタンダード5
-  + Computing Fundamentals
-  + Key Applications
-  + Living Online
++ [IC3 Digital Literacy Certification](https://www.credly.com/badges/220d01d0-fd6e-4772-a8ea-624f3f7f0ba9)
+  + [Computing Fundamentals](https://www.credly.com/badges/8c6e82d6-644c-4105-ab7e-eba94f5a94a8)
+  + [Key Applications](https://www.credly.com/badges/f08472d9-cbb5-4f41-8267-0a02c34d59c1)
+  + [Living Online](https://www.credly.com/badges/5753b85c-0b4c-4f67-9884-6790c7b3b49a)
 
 ## IT系以外
 
