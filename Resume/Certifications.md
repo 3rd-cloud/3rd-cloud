@@ -7,9 +7,10 @@
     - [[公的資格] 職業能力開発協会](#公的資格-職業能力開発協会)
     - [AWS](#aws)
     - [Microsoft](#microsoft)
+    - [Google](#google)
     - [Oracle](#oracle)
-    - [FUJITSU](#fujitsu)
     - [NTT Communications](#ntt-communications)
+    - [LINEヤフー](#lineヤフー)
     - [LPI-Japan](#lpi-japan)
     - [PHP技術者認定機構](#php技術者認定機構)
     - [一般社団法人Pythonエンジニア育成推進協会](#一般社団法人pythonエンジニア育成推進協会)
@@ -31,10 +32,12 @@
 ### [国家資格]
 
 + 1級ウェブデザイン技能士
-+ 応用情報技術者
-+ 基本情報技術者
-+ 情報セキュリティマネジメント
-+ ITパスポート
++ 情報処理技術者試験 ネットワークスペシャリスト
++ 情報処理安全確保支援士試験合格 (未登録)
++ 情報処理技術者試験 応用情報技術者
++ 情報処理技術者試験 基本情報技術者
++ 情報処理技術者試験 情報セキュリティマネジメント
++ 情報処理技術者試験 ITパスポート
 
 ### [公的資格] 日本商工会議所
 
@@ -54,49 +57,77 @@
 
 ### AWS
 
-+ AWS Certified Solutions Architect – Associate（SAA-C02）
-+ AWS Certified Cloud Practitioner（CLF-C01）
++ AWS Certified Data Analytics – Specialty
++ AWS Certified Database – Specialty
++ AWS Certified SAP on AWS – Specialty
++ AWS Certified Solutions Architect – Professional
++ AWS Certified DevOps Engineer – Professional
++ AWS Certified Solutions Architect – Associate
++ AWS Certified SysOps Administrator – Associate
++ AWS Certified Developer – Associate
++ AWS Certified Cloud Practitioner
 
 ### Microsoft
 
-+ Microsoft Azure Administrator Associate (AZ-104)
-+ Microsoft Azure Fundamentals (AZ-900)
++ Microsoft 認定 Azure Solutions Architect Expert (AZ-305)
++ Microsoft 認定 DevOps Engineer Expert (AZ-400)
++ Microsoft 認定 Azure Administrator Associate (AZ-104)
++ Microsoft 認定 Azure Developer Associate (AZ-204)
++ Microsoft 認定 Azure Fundamentals (AZ-900)
++ Microsoft 認定 Azure AI Fundamentals (AI-900)
++ Microsoft 認定 Azure Data Fundamentals (DB-900)
++ Microsoft 認定 Security, Compliance, and Identity Fundamentals (SC-900)
++ Microsoft 認定 Power Platform Fundamentals (PL-900)
 + [Microsoft Office Specialist 2013 Office Master](https://www.credly.com/badges/1bb7aaa0-e8dc-42da-9a26-17e678f41f48)
 + [Microsoft Office Specialist Word 2013 Expert](https://www.credly.com/badges/8109214f-0612-4228-93e6-2f5d45383eb7)
 + [Microsoft Office Specialist Excel 2013 Expert](https://www.credly.com/badges/a2d817ae-3675-49ae-acba-536d1dc01d7c)
 + [Microsoft Office Specialist PowerPoint 2013](https://www.credly.com/badges/2f8c889d-1376-4f39-b695-274995c3b819)
 + [Microsoft Office Specialist Access 2013](https://www.credly.com/badges/368b4cbc-763e-4b55-ad40-53205f8d20cf)
 
+### Google
+
++ Google Cloud 認定 Professional Cloud Architect
++ Google Cloud 認定 Associate Cloud Engineer
++ Google アナリティクス個人認定資格 (GAIQ)
++ Google マーケティング プラットフォーム認定資格 Google アナリティクス (GA4)
++ Google マーケティング プラットフォーム認定資格 コンバージョン最適化
++ Google 広告認定資格 検索広告
+
 ### Oracle
 
 + [Java Programmer, Gold SE 8](https://www.credly.com/badges/3ec3be5e-a8ec-4ddf-bb5d-a638312b271d)
-+ [Java Programmer, Silver SE 8](https://www.credly.com/badges/aff95285-114f-4a1c-b71f-6c89695cfe50)
-
-### FUJITSU
-
-+ FUJITSU Certified Professional Database
 
 ### NTT Communications
 
-+ インターネット検定 ドットコムマスター アドバンス ダブルスター
++ .com Master ADVANCED ★★
+
+### LINEヤフー
+
++ Yahoo!広告 ベーシック認定資格
++ Yahoo!広告 検索広告 アドバンスト認定資格
++ Yahoo!広告 ディスプレイ広告 アドバンスト認定資格
 
 ### LPI-Japan
 
-+ HTML5プロフェッショナル認定資格 レベル1
++ HTML5プロフェッショナル認定資格 Lv.2
 + オープンソースデータベース技術者 OSS-DB Silver
 
 ### PHP技術者認定機構
 
++ PHP 8 技術者認定 上級
 + PHP 5 技術者認定 上級
 + PHP 7 技術者認定 初級
 + PHP 5 技術者認定 初級
 + ウェブ・セキュリティ実務試験（徳丸実務試験）
 + ウェブ・セキュリティ基礎試験（徳丸基礎試験）
++ KUSANAGI for WordPress 認定試験
 
 ### 一般社団法人Pythonエンジニア育成推進協会
 
-+ Python3 エンジニア認定データ分析試験
-+ Python3 エンジニア認定基礎試験
++ Python 3 エンジニア認定実践試験
++ Python 3 エンジニア認定データ分析試験
++ Python 3 エンジニア認定基礎試験
++ PythonZen & PEP 8 検定試験
 
 ### 一般社団法人日本ディープラーニング協会
 
@@ -130,14 +161,6 @@
 + 情報システム試験 プログラマ認定
 + 情報システム試験 システムエンジニア認定
 + 情報デザイン試験 上級
-
-### 日本情報処理検定協会
-
-+ プレゼンテーション作成検定試験 1級
-
-### ICTプロフィシエンシー検定協会
-
-+ P検 2級
 
 ### Certiport
 
@@ -174,5 +197,5 @@
 
 ## 備考
 
-上位の級を取得した場合は、下位の級は表記しません。
+上位の級を取得した場合は、下位の級は表記しません。  
 不必要に下位の級は取得しません。
